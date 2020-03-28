@@ -1,3 +1,8 @@
+/**
+ * @author Marci Godfrey
+ * CIT 360: jUnit
+ */
+
 package jUnit_Basic;
 
 import org.junit.runner.RunWith;

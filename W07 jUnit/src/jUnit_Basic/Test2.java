@@ -1,7 +1,11 @@
+/**
+ * @author Marci Godfrey
+ * CIT 360: jUnit
+ */
+
 package jUnit_Basic;
 
 import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class Test2 {

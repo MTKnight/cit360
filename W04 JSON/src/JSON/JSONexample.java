@@ -1,12 +1,13 @@
+/**
+ * @author Marci Godfrey
+ * CIT 360: JSON (not the Argonaut)
+ */
+
 package JSON;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
-/**
- * @author Marci Godfrey
- * CIT 360: JSON Example
- */
 
 public class JSONexample {
 

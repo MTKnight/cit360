@@ -1,9 +1,10 @@
-package JSON;
-
 /**
  * @author Marci Godfrey
- * CIT 360: JSON Example: Object Kid
+ * CIT 360: JSON (not the Argonaut)
  */
+
+package JSON;
+
 
 public class Kid{
 	  private String name; 
