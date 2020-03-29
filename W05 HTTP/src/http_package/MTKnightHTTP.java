@@ -1,6 +1,6 @@
 /**
  * @author Marci Godfrey
- * CIT 360: HTTP
+ * CIT 360: ACP
  */
 
 package http_package;
